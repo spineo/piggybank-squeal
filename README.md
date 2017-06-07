@@ -46,3 +46,10 @@ Examples
 ========
 
 See the [word count](https://github.com/JamesLampton/piggybank-squeal/tree/master/src/main/pig/word_count) example for further explanation.
+
+Apache Storm
+============
+
+http://storm.apache.org/
+https://cwiki.apache.org/confluence/display/PIG/Pig+on+Storm+Proposal
+https://cloudacademy.com/blog/how-to-deploy-apache-storm-on-aws/
