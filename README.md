@@ -50,6 +50,6 @@ See the [word count](https://github.com/JamesLampton/piggybank-squeal/tree/maste
 Apache Storm
 ============
 
-http://storm.apache.org/
-https://cwiki.apache.org/confluence/display/PIG/Pig+on+Storm+Proposal
-https://cloudacademy.com/blog/how-to-deploy-apache-storm-on-aws/
+* http://storm.apache.org/
+* https://cwiki.apache.org/confluence/display/PIG/Pig+on+Storm+Proposal
+* https://cloudacademy.com/blog/how-to-deploy-apache-storm-on-aws/
