@@ -53,3 +53,9 @@ Apache Storm
 * http://storm.apache.org/
 * https://cwiki.apache.org/confluence/display/PIG/Pig+on+Storm+Proposal
 * https://cloudacademy.com/blog/how-to-deploy-apache-storm-on-aws/
+
+Streaming vs. Batch
+===================
+
+* https://softwareengineeringdaily.com/2015/08/03/batch-vs-streaming-the-differences/
+* https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
